@@ -1,2 +1,0 @@
-# Sumati
-git-practice
